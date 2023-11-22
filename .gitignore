@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+
+# Next.js
+.next/
+out/
+.env
+
+# Visual Studio Code
+.vscode/
+
