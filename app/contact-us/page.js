@@ -215,24 +215,28 @@ export default function Home() {
                     </section>
                     {/* Feature Section Two */}
                     <section style={{marginTop: '100px'}} className="feature-section-two">
-                        <div className="auto-container">
+<div className="auto-container">
                             <div className="row">
                                 <div style={{marginBottom: '20px'}} className="col-lg-6 feature-block-two style-two">
                                     <div className="shape-box">
+                                    <Link href='/contact-us'>
                                         <div className="inner-box">
                                             <div className="icon"><img src="/assets/images/icons/icon-9.png" alt="" /></div>
                                             <h4>Become a Partner of Kodeum</h4>
                                             <div className="text">Unlock boundless possibilities as you join forces with Kodeum, your gateway to innovation, & success.</div>
                                         </div>
+                                        </Link>
                                     </div>
                                 </div>
                                 <div style={{marginBottom: '20px'}} className="col-lg-6 feature-block-two style-two">
                                     <div className="shape-box">
+                                        <Link href='/careers'>
                                         <div className="inner-box">
                                             <div className="icon"><img src="/assets/images/icons/icon-10.png" alt="" /></div>
                                             <h4>Career Opportunities in Kodeum</h4>
-                                            <div className="text">Ignite  your career at Kodeum, where every opportunity propels you to excellence.</div>
+                                            <div className="text">Ignite your career at Kodeum today, where every opportunity propels you to excellence. Join us and embrace a journey of innovation and growth.</div>
                                         </div>
+                                        </Link>
                                     </div>
                                 </div>
                             </div>

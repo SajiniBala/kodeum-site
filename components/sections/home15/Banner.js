@@ -113,11 +113,12 @@ export default function Banner() {
                         {/* <div className="image-layer lazy-image" data-bg="/assets/images-4/main-slider/7.jpg" /> */}
                         <div className="auto-container">
                             <div className="content-box">
-                                <h2>Cutting-Edge</h2>
-                                <h3>Website and Mobile App to empower Your Business</h3>
-                                <p style={{color: '#fafcfc'}}>We specialize in turning your digital dreams into reality. <br/> Our team of expert developers and designers crafts bespoke websites and software solutions tailored to your unique needs.</p>
+                                {/* <h2>Cutting-Edge</h2> */}
+                                <h2>Digitalize</h2>
+                                <h3>Your Businesses with our Tech Solutions</h3>
+                                <p style={{color: '#fafcfc'}}>We specialize in turning your digital dreams into reality.</p>
                                 <div className="btn-box">
-                                    <Link href="/contact-us" style={{margin: '0'}} className="theme-btn btn-style-ten"><span className="btn-title">CONTACT US</span></Link>
+                                    <Link href="/contact-us" style={{margin: '0'}} className="theme-btn btn-style-ten"><span className="btn-title">Let's Start</span></Link>
                                 </div>
                             </div>
                         </div>

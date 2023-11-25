@@ -12,7 +12,7 @@ export default function Footer15() {
                                         <h3>About Us</h3>
                                     </div>
                                     <div className="widget-content">
-                                        <p>At Kodeum, we are committed to long-term partnerships with our clients.</p>
+                                        <p>Your Trusted Partner for Cutting-Edge Software Solutions.</p>
                                         <div className="inner">
                                             <h5>Free Consultation</h5>
                                             <div className="email">
@@ -121,8 +121,8 @@ export default function Footer15() {
                     <div className="auto-container clearfix">
                         <div className="copyright"><p>Copyrights © {new Date().getFullYear()} <Link href="/index-15">Kodeum</Link>, All Rights Reserved.</p></div>
                         <ul className="footer-nav clearfix">
-                            <li><Link href="/index-15">Privacy Policy</Link></li>
-                            <li><Link href="/index-15">Terms and Conditions</Link></li>
+                            <li><Link href="/privacy_policy">Privacy Policy</Link></li>
+                            <li><Link href="/terms">Terms and Conditions</Link></li>
                         </ul>
                     </div>
                 </div>

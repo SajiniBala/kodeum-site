@@ -10,14 +10,15 @@ export default function About() {
                         <div className="col-lg-6 col-md-12 col-sm-12 image-column">
                             <div className="image-box">
                                 <div className="bg-layer" />
-                                <figure className="image"><img src="/assets/images-4/resource/about-2.jpg" alt="" /></figure>
+                                <figure className="image"><img src="/assets/images-4/resource/digital-architect.jpeg" alt="" /></figure>
                                 <div className="text"><h2 style={{textAlign: 'center'}}>Digital Architects</h2></div>
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-12 col-sm-12 content-column">
                             <div className="content-box">
                                 <div className="sec-title-four">
-                                    <h2>At Kodeum, we are dedicated to providing exceptional business solutions to clients locally and globally.</h2>
+                                    <h2>
+We deliver exceptional services to clients both locally and globally</h2>
                                 </div>
                                 <div className="text">
                                     <p>We understand that your online presence is crucial to your success. That's why our team of experienced professionals is passionate about crafting tailored digital experiences that transform businesses and drive tangible results.</p>

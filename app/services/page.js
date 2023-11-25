@@ -27,7 +27,7 @@ export default function Home() {
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-34.jpg" alt="" />
+                                            <img className="lazy-image owl-lazy" src="/assets/images-4/service/service7.gif" alt="" />
                                             <div className="icon-box">
                                                 <div className="icon"><span className="flaticon-global" /></div>
                                                 <h4>Web Development</h4>
@@ -42,7 +42,7 @@ export default function Home() {
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-35.jpg" alt="" />
+                                        <img className="lazy-image owl-lazy" src="/assets/images-4/service/service-mobile.gif" alt="" />
                                             <div className="icon-box">
                                                 <div className="icon"><span className="flaticon-app" /></div>
                                                 <h4>Mobile App Development</h4>
@@ -57,7 +57,7 @@ export default function Home() {
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-36.jpg" alt="" />
+                                        <img className="lazy-image owl-lazy" src="/assets/images-4/service/service2.gif" alt="" />
                                             <div className="icon-box">
                                                 <div className="icon"><span className="flaticon-system" /></div>
                                                 <h4>Bespoke Software Development</h4>
@@ -72,9 +72,9 @@ export default function Home() {
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-37.jpg" alt="" />
+                                        <img className="lazy-image owl-lazy" src="/assets/images-4/service/service-commerce.gif" alt="" />
                                             <div className="icon-box">
-                                                <div className="icon"><span className="flaticon-shopping-cart" /></div>
+                                                <div className="icon"><span className="flaticon-shopping-cart"/></div>
                                                 <h4>E-Commerce Solutions</h4>
                                             </div>
                                             <div className="overlay"><Link href="/services/e-commerce-solutions"><span className="flaticon-right" /></Link></div>
@@ -87,7 +87,7 @@ export default function Home() {
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-38.jpg" alt="" />
+                                        <img className="lazy-image owl-lazy" src="/assets/images-4/service/service1.gif" alt="" />
                                             <div className="icon-box">
                                                 <div className="icon"><span className="flaticon-thought" /></div>
                                                 <h4>ERP</h4>
@@ -102,7 +102,7 @@ export default function Home() {
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-39.jpg" alt="" />
+                                        <img className="lazy-image owl-lazy" src="/assets/images-4/service/service6.gif" alt="" />
                                             <div className="icon-box">
                                                 <div className="icon"><span className="flaticon-upload" /></div>
                                                 <h4>Cloud Solutions</h4>
@@ -110,14 +110,14 @@ export default function Home() {
                                             <div className="overlay"><Link href="/services/cloud-solutions"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
-                                            <div className="text">Embrace the power of the cloud with our scalable & secure cloud solutions.</div>
+                                            <div className="text">Embrace the power of the cloud with our secure cloud solutions.</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-40.jpg" alt="" />
+                                        <img className="lazy-image owl-lazy" src="/assets/images-4/service/service3.gif" alt="" />
                                             <div className="icon-box">
                                                 <div className="icon"><span className="flaticon-trending" /></div>
                                                 <h4>Digital Marketing</h4>
@@ -125,14 +125,14 @@ export default function Home() {
                                             <div className="overlay"><Link href="/services/digital-marketing"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
-                                            <div className="text">Amplify your online presence and drive targeted traffic to your business.</div>
+                                            <div className="text">Amplify your online presence and drive traffic to your business.</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-41.jpg" alt="" />
+                                        <img className="lazy-image owl-lazy" src="/assets/images-4/service/service5.gif" width={10} alt="" />
                                             <div className="icon-box">
                                                 <div className="icon"><span className="flaticon-success" /></div>
                                                 <h4>Business Branding</h4>
@@ -140,16 +140,16 @@ export default function Home() {
                                             <div className="overlay"><Link href="/services/business-branding"><span className="flaticon-right" /></Link></div>
                                         </div>
                                         <div className="content">
-                                            <div className="text">Elevate your brand and attract targeted audiences through business branding.</div>
+                                            <div className="text">Elevate your brand & attract targeted audiences through branding.</div>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-lg-4 service-block-six">
                                     <div className="inner-box">
                                         <div className="image-box">
-                                            <img className="lazy-image owl-lazy" src="/assets/images/resource/image-42.jpg" alt="" />
+                                        <img className="lazy-image owl-lazy" src="/assets/images-4/service/service4.gif" alt="" />
                                             <div className="icon-box">
-                                                <div className="icon"><span className="flaticon-support" /></div>
+                                                <div className="icon"><span className="flaticon-support"/></div>
                                                 <h4>Maintenance and Support</h4>
                                             </div>
                                             <div className="overlay"><Link href="/services/maintenance-and-support"><span className="flaticon-right" /></Link></div>
@@ -267,28 +267,34 @@ export default function Home() {
                     </section>
                     {/* Feature Section Two */}
                     <section className="feature-section-two style-two">
+                    
                         <div className="auto-container">
                             <div className="row">
                                 <div style={{marginBottom: '20px'}} className="col-lg-6 feature-block-two style-two">
                                     <div className="shape-box">
+                                    <Link href='/contact-us'>
                                         <div className="inner-box">
                                             <div className="icon"><img src="/assets/images/icons/icon-9.png" alt="" /></div>
                                             <h4>Become a Partner of Kodeum</h4>
-                                            <div className="text">Unlock boundless possibilities as you join forces with Kodeum, your gateway to innovation, and success.</div>
+                                            <div className="text">Unlock boundless possibilities as you join forces with Kodeum, your gateway to innovation, & success.</div>
                                         </div>
+                                        </Link>
                                     </div>
                                 </div>
                                 <div style={{marginBottom: '20px'}} className="col-lg-6 feature-block-two style-two">
                                     <div className="shape-box">
+                                        <Link href='/careers'>
                                         <div className="inner-box">
                                             <div className="icon"><img src="/assets/images/icons/icon-10.png" alt="" /></div>
                                             <h4>Career Opportunities in Kodeum</h4>
-                                            <div className="text">Ignite  your career at Kodeum, where every opportunity propels you to excellence.</div>
+                                            <div className="text">Ignite your career at Kodeum today, where every opportunity propels you to excellence. Join us and embrace a journey of innovation and growth.</div>
                                         </div>
+                                        </Link>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                 
                     </section>
                 </div>
 

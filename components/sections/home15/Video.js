@@ -9,11 +9,11 @@ export default function Video() {
     return (
         <>
             <section className="video-section-home15 text-center">
-                <div className="bg-layer" style={{ backgroundImage: 'url(assets/images-4/background/chooseus-2.jpg)' }} />
+                <div className="bg-layer" style={{ backgroundImage: 'url(assets/images-4/background/video-bg-3.jpg)' }} />
                 <div className="auto-container">
-                    <div className="inner-box" style={{ backgroundImage: 'url(assets/images-4/background/chooseus-1.jpg)' }}>
+                    <div className="inner-box" style={{ backgroundImage: 'url(assets/images-4/background/hero.gif)' }}>
                         <div className="video-box">
-                            {/* <a onClick={() => setOpen(true)} className="overlay-link lightbox-image video-fancybox ripple"><span className="play-icon flaticon-play" /> */}
+                            <a onClick={() => setOpen(true)} className="overlay-link lightbox-image video-fancybox ripple"> <img className="play-icon" src="assets/images-4/resource/service5.gif" width={90} />
                                
                                     <ReactCurvedText width='180'
                                         height='180'
@@ -23,16 +23,17 @@ export default function Video() {
                                         ry='60'
                                         startOffset='0'
                                         reversed={true}
-                                        text='IT Solutions | Kodeum Digital Architectes |'
-                                        textProps={{ "style": { "fontSize": "15" } }}
-                                        textPathProps={{ "fill": "#ffffff" }}
+                                        text='Digital - Architects - Kodeum -'
+                                        textProps={{ "style": { "fontSize": "15" ,"letterSpacing":"3.3"} }}
+                                        textPathProps={{ "fill": "#09E9B0" }}
                                         tspanProps={null}
                                         ellipseProps={null}
                                         svgProps={null}
                                     />
-                            {/* </a> */}
+                                  
+                            </a>
                         </div>
-                        <h2>We are committed to delivering exceptional results that exceed your expectations<br /> and drive tangible growth for your business.</h2>
+                        <h2>We are committed to delivering exceptional results that exceed your expectations.</h2>
                         <Link href="/contact-us" className="theme-btn btn-style-ten"><span className="btn-title">Let’s Start</span></Link>
                     </div>
                 </div>

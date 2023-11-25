@@ -97,12 +97,12 @@ export default function Home() {
                         </div>
                     </section>
                     {/* Meet Up Section */}
-                    <section className="meet-up-section" style={{ backgroundImage: 'url(assets/images-4/background/chooseus-2.jpg)' }}>
+                    <section className="meet-up-section" style={{ backgroundImage: 'url(assets/images-4/background/about-bg3.jpg)' }}>
                         <div className="auto-container">
-                            <div className="content-box">
+                            <div className="content-box"  style={{marginBottom:'-70px',marginTop:'20vh' }}>
                                 <div className="icon"><span className="flaticon-team-1" /></div>
-                                <h3>Elevate Career</h3>
-                                <h1>WITH KODEUM</h1>
+                                <h3>Elevate Your Career With</h3>
+                                <h1>KODEUM</h1>
                                 <div className="text">College Road, Point Pedro, 40000, Sri Lanka</div>
                                 <ul>
                                     <li><a ><i className="flaticon-phone" />+ 94 77 882 3376</a></li>

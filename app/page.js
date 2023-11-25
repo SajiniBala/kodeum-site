@@ -9,7 +9,7 @@ import Service from "@/components/sections/home15/Service"
 import Testimonial from "@/components/sections/home15/Testimonial"
 import Video from "@/components/sections/home15/Video"
 // import News from "@/components/sections/home15/News"
-// import Clients from "@/components/sections/home15/Clients"
+import Clients from "@/components/sections/home15/Clients"
 // import Team from "@/components/sections/home15/Team"
 
 export default function Home() {
@@ -25,9 +25,9 @@ export default function Home() {
                 <Video />
                 {/* <Team /> */}
                 <Testimonial />
-                <Pricing />
-                {/* <News />
-                <Clients /> */}
+                {/* <Pricing /> */}
+               {/* <News /> */}
+                 <Clients />
                 <Contact />
             </Layout>
         </>

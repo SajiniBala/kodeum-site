@@ -5,7 +5,7 @@ export default function Chooseus() {
         <>
             <section className="chooseus-section-home15">
                 <div className="pattern-layer" style={{ backgroundImage: 'url(assets/images-4/shape/shape-1.png)' }} />
-                <div className="bg-layer" style={{ backgroundImage: 'url(assets/images-4/background/chooseus-1.jpg)' }} />
+                <div className="bg-layer" style={{ backgroundImage: 'url(assets/images-4/resource/choose-pic.jpeg)' }} />
                 <div className="auto-container">
                     <div className="row clearfix">
                         <div className="col-lg-8 col-md-12 col-sm-12 content-column">

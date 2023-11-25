@@ -23,6 +23,7 @@ import 'swiper/css'
 import "swiper/css/pagination"
 import 'swiper/css/free-mode';
 
+
 import { Barlow, Fira_Sans, Raleway, Cinzel, Alata, Josefin_Slab } from 'next/font/google'
 
 const cinzel = Cinzel({

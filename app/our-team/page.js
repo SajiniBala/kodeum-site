@@ -35,7 +35,7 @@ export default function Home() {
                                 <div className="col-lg-6">
                                     <div className="experience-years-block">
                                         <div className="image">
-                                            <img src="/assets/images/resource/image-46.jpg" alt="" />
+                                            <img src="assets/images-4/resource/team-pic.jpg" alt="" />
                                             {/* <h2>14</h2> */}
                                         </div>
                                         {/* <div className="text">Years <br /> experience</div> */}
@@ -43,7 +43,7 @@ export default function Home() {
                                 </div>
                             </div>
                             <div className="sec-title text-center">
-                                <h2>Each member of our <br /> team is a specialist in his or her field</h2>
+                                <h2>Our Team of Experts</h2>
                                 <div className="text-decoration">
                                     <span className="left" />
                                     <span className="right" />
@@ -52,16 +52,16 @@ export default function Home() {
                             <div className="row">
                                 <div className="team-block-one col-lg-3 col-md-6">
                                     <div className="inner-box">
-                                        <div style={{boxShadow: 'rgba(0, 0, 0, 0.24) 0px 3px 8px'}} className="image"><img src="/assets/images/resource/profile-2.jpg" alt="" /></div>
+                                        <div style={{boxShadow: 'rgba(0, 0, 0, 0.24) 0px 3px 8px'}} className="image"><img src="/assets/images/resource/profile-1.jpg" alt="" /></div>
                                         <div className="lower-content">
                                             <div className="designation">DevOps Engineer</div>
-                                            <h4>Nithya Krish</h4>
+                                            <h4>Dilan JD</h4>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="team-block-one col-lg-3 col-md-6">
                                     <div className="inner-box">
-                                        <div style={{boxShadow: 'rgba(0, 0, 0, 0.24) 0px 3px 8px'}} className="image"><img src="/assets/images/resource/profile-1.jpg" alt="" /></div>
+                                        <div style={{boxShadow: 'rgba(0, 0, 0, 0.24) 0px 3px 8px'}} className="image"><img src="/assets/images/resource/profile-2.jpg" alt="" /></div>
                                         <div className="lower-content">
                                             <div className="designation">Front-End Developer</div>
                                             <h4>Suba Tharsan</h4>
@@ -70,19 +70,19 @@ export default function Home() {
                                 </div>
                                 <div className="team-block-one col-lg-3 col-md-6">
                                     <div className="inner-box">
-                                        <div style={{boxShadow: 'rgba(0, 0, 0, 0.24) 0px 3px 8px'}} className="image"><img src="/assets/images/resource/profile-2.jpg" alt="" /></div>
+                                        <div style={{boxShadow: 'rgba(0, 0, 0, 0.24) 0px 3px 8px'}} className="image"><img src="/assets/images/resource/profile-1.jpg" alt="" /></div>
                                         <div className="lower-content">
                                             <div className="designation">Back-End Developer</div>
-                                            <h4>Regina Daniel</h4>
+                                            <h4>Dimithu Sampath</h4>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="team-block-one col-lg-3 col-md-6">
                                     <div className="inner-box">
-                                        <div style={{boxShadow: 'rgba(0, 0, 0, 0.24) 0px 3px 8px'}} className="image"><img src="/assets/images/resource/profile-1.jpg" alt="" /></div>
+                                        <div style={{boxShadow: 'rgba(0, 0, 0, 0.24) 0px 3px 8px'}} className="image"><img src="/assets/images/resource/profile-2.jpg" alt="" /></div>
                                         <div className="lower-content">
                                             <div className="designation">UX/UI Designer</div>
-                                            <h4>Dilan JD</h4>
+                                            <h4>Nithya Krish</h4>
                                         </div>
                                     </div>
                                 </div>

@@ -121,7 +121,7 @@ export default function TestimonialSlider5() {
                         </div>
                     </div>
                 </SwiperSlide>
-                <SwiperSlide className="slide">
+                {/* <SwiperSlide className="slide">
                     <div className="testimonial-block-six">
                         <div className="inner-box">
                             <div className="top-content">
@@ -142,7 +142,7 @@ export default function TestimonialSlider5() {
                             </div>
                         </div>
                     </div>
-                </SwiperSlide>
+                </SwiperSlide> */}
                 <div className="swiper-pagination relative" />
             </Swiper>
 

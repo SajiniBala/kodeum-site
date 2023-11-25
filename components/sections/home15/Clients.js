@@ -10,12 +10,12 @@ export default function Clients() {
                         <div className="row clearfix">
                             <div className="col-lg-6 col-md-12 col-sm-12 title-column">
                                 <div className="sec-title-four">
-                                    <h2>Our Trusted Partners</h2>
+                                    <h2>Tech Stacks We Use</h2>
                                 </div>
                             </div>
                             <div className="col-lg-6 col-md-12 col-sm-12 text-column">
                                 <div className="text">
-                                    <p>Which is the same as saying through shrinking from toil and pain. <br />perfectly simple and easy to distinguish.</p>
+                                    <p>At our core, we prioritize our clients' satisfaction <br />by tailoring our approach to their unique needs.</p>
                                 </div>
                             </div>
                         </div>
@@ -23,28 +23,28 @@ export default function Clients() {
                     <div className="clients-inner">
                         <ul className="logo-list clearfix">
                             <li>
-                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-13.png" alt="" /></Link></figure>
+                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-13.png" alt="" width={100} /></Link></figure>
                             </li>
                             <li>
-                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-14.png" alt="" /></Link></figure>
+                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-14.png" alt="" width={100} /></Link></figure>
                             </li>
                             <li>
-                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-15.png" alt="" /></Link></figure>
+                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-15.png" alt="" width={100} /></Link></figure>
                             </li>
                             <li>
-                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-16.png" alt="" /></Link></figure>
+                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-16.png" alt="" width={100} /></Link></figure>
                             </li>
                             <li>
-                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-17.png" alt="" /></Link></figure>
+                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-17.png" alt="" width={100} /></Link></figure>
                             </li>
                             <li>
-                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-18.png" alt="" /></Link></figure>
+                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-18.png" alt="" width={100} /></Link></figure>
                             </li>
                             <li>
-                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-19.png" alt="" /></Link></figure>
+                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-19.png" alt="" width={100} /></Link></figure>
                             </li>
                             <li>
-                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-20.png" alt="" /></Link></figure>
+                                <figure className="clients-logo"><Link href="/index-13"><img src="/assets/images-4/clients/clients-20.png" alt="" width={100} /></Link></figure>
                             </li>
                         </ul>
                     </div>

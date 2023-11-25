@@ -35,12 +35,12 @@ export default function Home() {
                             <div className="row">
                                 <div className="col-lg-6 content-column">
                                     <div className="sec-title">
-                                        <h2>Unlock Cost Efficiency and Global Talent with Our Offshore Services: You Focus on Your Business</h2>
+                                        <h2>Unlock Cost Efficiency and Global Talent with Our Offshore Services</h2>
                                         <div className="text-decoration">
                                             <span className="left" />
                                             <span className="right" />
                                         </div>
-                                        <div className="text">By outsourcing to us, you can focus on your core activities while we take care of technical intricacies. We prioritize quality assurance, providing thorough testing, rigorous checks, and ongoing support for flawless functionality. </div>
+                                        <div className="text">By outsourcing us, you can focus on your core activities while we take care of technical intricacies. We prioritize quality assurance, providing thorough testing, rigorous checks, and ongoing support for flawless functionality. </div>
                                     </div>
                                     {/* <div className="author-box">
                                         <div className="signature"><img src="/assets/images/resource/signature.png" alt="" /></div>
@@ -62,11 +62,11 @@ export default function Home() {
                             </div>
                             <div style={{marginTop: '50px'}} className="row">
                                 <div className="col-lg-6">
-                                    <div className="image"><img src="/assets/images/resource/offshore-1.jpg" alt="" /></div>
+                                    <div className="image" style={{marginTop: '50px'}}><img src="https://treehousetechgroup.com/wp-content/uploads/2019/08/shutterstock_1044126052.jpg" alt="" /></div>
                                 </div>
                                 <div className="col-lg-6">
                                     <div className="sec-title">
-                                        <h2>Reasons to Choose Our Offshore Services</h2>
+                                        <h2>Reasons to Choose Us</h2>
                                         <div className="text-decoration">
                                             <span className="left" />
                                             <span className="right" />
@@ -93,7 +93,7 @@ export default function Home() {
 
                     <section style={{marginTop: '-100px'}} className="award-section style-two">
                     <div className="sec-title text-center">
-                                <h2>Delivering Value and Global Success: Our Key Pillars</h2>
+                                <h2>Our Key Pillars</h2>
                                 <div className="text-decoration">
                                     <span className="left" />
                                     <span className="right" />

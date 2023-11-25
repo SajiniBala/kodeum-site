@@ -23,9 +23,9 @@ export default function Home() {
                             <div className="row">
                                 <div className="col-lg-6">
                                     <div className="image-block">
-                                        <div className="image-one wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><div className="image-box"><img className="lazy-image owl-lazy" src="/assets/images/resource/image-5.jpg" alt="" /></div></div>
-                                        <div className="image-two wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms"><div className="image-box"><img className="lazy-image owl-lazy" src="/assets/images/resource/image-4.jpg" alt="" /></div></div>
-                                        <div className="logo"><img src="/assets/images/icons/icon-12.png" alt="" /></div>
+                                        <div className="image-one wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><div className="image-box"><img className="lazy-image owl-lazy" src="https://media.istockphoto.com/id/483465854/photo/working-on-an-online-marketing-strategy.webp?b=1&s=170667a&w=0&k=20&c=DnoIJLOkQWrrH6WmZ9U6aNIi7IlEIdQlub3CoQIl1-M="  alt="" /></div></div>
+                                        <div className="image-two wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms"><div className="image-box"><img className="lazy-image owl-lazy" src="/assets/images-4/resource/about-people-2.jpg" width={400}  alt=""  /></div></div>
+                                        <div className="logo"><img src="apple-touch-icon.png" alt="" width={70}/></div>
                                     </div>
                                 </div>
                                 <div className="col-lg-6">
@@ -157,7 +157,7 @@ export default function Home() {
                                     <span className="right" />
                                 </div>
                             </div>
-                            {/*Theme Carousel*/}
+                            {/* Theme Carousel */}
                             <TestimonialSlider5 />
                         </div>
                     </section>
@@ -166,20 +166,24 @@ export default function Home() {
                             <div className="row">
                                 <div style={{marginBottom: '20px'}} className="col-lg-6 feature-block-two style-two">
                                     <div className="shape-box">
+                                    <Link href='/contact-us'>
                                         <div className="inner-box">
                                             <div className="icon"><img src="/assets/images/icons/icon-9.png" alt="" /></div>
                                             <h4>Become a Partner of Kodeum</h4>
                                             <div className="text">Unlock boundless possibilities as you join forces with Kodeum, your gateway to innovation, & success.</div>
                                         </div>
+                                        </Link>
                                     </div>
                                 </div>
                                 <div style={{marginBottom: '20px'}} className="col-lg-6 feature-block-two style-two">
                                     <div className="shape-box">
+                                        <Link href='/careers'>
                                         <div className="inner-box">
                                             <div className="icon"><img src="/assets/images/icons/icon-10.png" alt="" /></div>
                                             <h4>Career Opportunities in Kodeum</h4>
-                                            <div className="text">Ignite  your career at Kodeum, where every opportunity propels you to excellence.</div>
+                                            <div className="text">Ignite your career at Kodeum today, where every opportunity propels you to excellence. Join us and embrace a journey of innovation and growth.</div>
                                         </div>
+                                        </Link>
                                     </div>
                                 </div>
                             </div>
@@ -198,7 +202,7 @@ export default function Home() {
                                             <h4>+94 77 882 3376 </h4>
                                             <div className="text">contact@kodeum.io</div>
                                         </div>
-                                        <Link href="#" className="theme-btn btn-style-two"><span className="btn-title">Let’s Start</span></Link>
+                                        <Link href="#" className="theme-btn btn-style-two"><span className="btn-title">CONSULT</span></Link>
                                     </div>
                                 </div>
                             </div>
